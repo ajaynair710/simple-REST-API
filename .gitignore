@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+
+# Local CA files (e.g. Aiven); use PGSSLROOTCERT in .env
+certs/*.pem
